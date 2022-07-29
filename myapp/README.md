@@ -1,12 +1,12 @@
 # myapp
 
-## Technologies
-Dart : 2.16.2
-Flutter 2.10.5
+## Technologies utilisées
+Dart : 2.16.2 ####
+Flutter : 2.10.5
 
 
 ## Démarrer l'application
-Pour pouvoir utiliser l'application, il faut récupérer l'un des apk présent dans le dossier build/app/outputs/flutter-apk.
+Pour pouvoir utiliser l'application, il faut récupérer l'un des apk présent dans le dossier build/app/outputs/flutter-apk et l'installer.
 
 
 ## Ressenti 
