@@ -6,7 +6,7 @@ Flutter 2.10.5
 
 
 ## Démarrer l'application
-Il faut installer l'un des apk présents dans le projet ou alors build l'apk.
+Pour pouvoir utiliser l'application, il faut récupérer l'un des apk présent dans le dossier build/app/outputs/flutter-apk.
 
 
 ## Ressenti 
